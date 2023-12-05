@@ -16,14 +16,14 @@ Understanding data structures is essential for developing efficient and scalable
 
 ## Implemented Data Structures
 
-1. [String](src/main/java/com/example/datastructures/StringExample.java)
-2. [Array](src/main/java/com/example/datastructures/ArrayExample.java)
-3. [Stack](src/main/java/com/example/datastructures/StackExample.java)
-4. [Queue](src/main/java/com/example/datastructures/QueueExample.java)
-5. [Enum](src/main/java/com/example/datastructures/EnumExample.java)
-6. [Map](src/main/java/com/example/datastructures/MapExample.java)
+- String
+- Array
+- Stack
+- Queue
+- Enum
+- Map
 
-
+(Include more data structures as your repository expands.)
 
 ## How to Use
 
