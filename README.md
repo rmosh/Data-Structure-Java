@@ -31,8 +31,3 @@ Clone the repository to your local machine and explore the data structure implem
 
 ```bash
 git clone https://github.com/your-username/Data-Structure-Java.git
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
-
