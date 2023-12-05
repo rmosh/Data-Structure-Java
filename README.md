@@ -32,9 +32,3 @@ Clone the repository to your local machine and explore the data structure implem
 ```bash
 git clone https://github.com/your-username/Data-Structure-Java.git
 
-##Contributing
-Contributions are welcome! If you have improvements, additional data structures, or bug fixes, feel free to submit a pull request. Please adhere to the existing coding style and provide clear commit messages.
-
-##License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
